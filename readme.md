@@ -4,13 +4,13 @@
 
 ## 1、项目介绍
 
-基于springboot的电影院管理系统7拥有两种橘色
+基于springboot的电影院管理系统7拥有两种角色
 
 管理员：用户管理、购票统计、电影管理、电影类型管理、放映厅管理、订单管理等
 
 用户：登录注册、查看各种信息、购票、退票、订单管理、评论、收藏等
 
-![项目架构](https://s2.loli.net/2023/10/18/tDzqyijaM6C5lET.png)
+![项目架构](https://www.codeshop.fun/Typora-Images/202311102314450.png)
 
 
 ## 2、项目技术
@@ -33,47 +33,49 @@
 
 ### 4.1 登录
 
-![登录](https://s2.loli.net/2023/10/18/2z6h8WHMwZCsKko.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202311102314724.jpg)
+
 
 ### 4.2 管理员模块
 
-![管理员-用户管理](https://s2.loli.net/2023/10/18/5lXWRN3V4cruO9L.jpg)
+![管理员-电影信息管理](https://www.codeshop.fun/Typora-Images/202311102314987.jpg)
 
-![管理员-购票统计](https://s2.loli.net/2023/10/18/IVLoNyehcUQOsEq.jpg)
+![管理员-电影资讯管理](https://www.codeshop.fun/Typora-Images/202311102314027.jpg)
 
-![管理员-电影信息管理](https://s2.loli.net/2023/10/18/bo2R4JwHsGnFy5g.jpg)
+![管理员-订单管理](https://www.codeshop.fun/Typora-Images/202311102314016.jpg)
 
-![管理员-电影类型管理](https://s2.loli.net/2023/10/18/6ilG3BbrEs8eSDo.jpg)
+![管理员-放映厅管理](https://www.codeshop.fun/Typora-Images/202311102314038.jpg)
 
-![管理员-放映厅管理](https://s2.loli.net/2023/10/18/SIRdFXHCkAxnmrD.jpg)
+![管理员-购票统计](https://www.codeshop.fun/Typora-Images/202311102315452.jpg)
 
-![管理员-订单管理](https://s2.loli.net/2023/10/18/rtnBoxNSWh1e5gA.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202311102315299.jpg)
 
-![管理员-电影资讯管理](https://s2.loli.net/2023/10/18/XKHghJdQAM5x2kI.jpg)
+![管理员-电影类型管理](https://www.codeshop.fun/Typora-Images/202311102315099.jpg)
 
 ### 4.3 用户模块
 
-![首页](https://s2.loli.net/2023/10/18/2Vy1mohQSJgLFsf.jpg)
+![用户订单管理](https://www.codeshop.fun/Typora-Images/202311102314879.jpg)
 
-![电影资讯](https://s2.loli.net/2023/10/18/bIeVfohKn3NP5cR.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202311102314896.jpg)
 
-![电影详情](https://s2.loli.net/2023/10/18/r8qEfHpihgL5K61.jpg)
+![选座评论](https://www.codeshop.fun/Typora-Images/202311102314888.jpg)
 
-![选座评论](https://s2.loli.net/2023/10/18/YgQnG2q5sfEPtzD.jpg)
+![个人中心](https://www.codeshop.fun/Typora-Images/202311102314710.jpg)
 
-![个人中心](https://s2.loli.net/2023/10/18/fExMZcgSPBtVI5b.jpg)
+![电影详情](https://www.codeshop.fun/Typora-Images/202311102314729.jpg)
 
-![用户订单管理](https://s2.loli.net/2023/10/18/UoybzShgP5dOu1H.jpg)
+![电影资讯](https://www.codeshop.fun/Typora-Images/202311102314744.jpg)
 
 ### 4.4 文档目录
 
-![文档目录](https://s2.loli.net/2023/10/18/xZh4B1kHNL5dqjU.jpg)
+![文档目录](https://www.codeshop.fun/Typora-Images/202311102314842.jpg)
+
 
 ### 获取方式&视频演示
 
-下方扫一下，回复关键词：电影
+下方扫一下，回复关键词：**电影**，查-看-导-入-教-程-视-频-和-sql-脚-本-等
 
-![202309291447341](https://s2.loli.net/2023/10/06/lxLMirNn2tyaIob.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 
 
